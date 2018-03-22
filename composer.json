@@ -1,5 +1,5 @@
 {
-    "name": "hansott/pinterest-php",
+    "name": "atwix/pinterest-php",
     "description": "PHP Wrapper for consuming the Pinterest API.",
     "license": "MIT",
     "authors": [
